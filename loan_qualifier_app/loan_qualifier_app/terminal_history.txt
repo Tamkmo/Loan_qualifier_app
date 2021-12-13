@@ -1,0 +1,223 @@
+(base) tmorbiwala@Tasnims-MBP loan_qualifier_app % history 50
+   50  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   51  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   52  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   53  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   54  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   55  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   56  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   57  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   58  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   59  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   60  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   61  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   62  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   63  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   64  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   65  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   66  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/GitHub_Upload/challenge1/loan_analyzer.py
+   67  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/Fintech2021/Module2/Other_exercises/cli.py
+   68  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Other_exercises/cli.py
+   69  python cli.py
+   70  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   71  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   72  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   73  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   74  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   75  /usr/local/bin/python3 /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   76  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   77  /Users/tmorbiwala/opt/anaconda3/envs/dev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   78  /Users/tmorbiwala/opt/anaconda3/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   79  /Users/tmorbiwala/opt/anaconda3/envs/atmdev/bin/python /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved/app.py
+   80  conda --version
+   81  conda update conda
+   82  conda create -n dev python=3.7 anaconda
+   83  conda activate dev
+   84  conda init zsh
+   85  echo #{SHELL}
+   86  python -m ipykernel install --user --name dev
+   87  conda install -c conda-forge nodejs
+   88  conda deactivate
+   89  cd Desktop
+   90  mkdir test
+   91  touch sample.txt
+   92  cd test
+   93  ls
+   94  cd..
+   95  cd ..
+   96  mv sample.txt test
+   97  cd test
+   98  ls
+   99  ren sample.txt example.txt
+  100  mv sample.txt example.txt
+  101  ls
+  102  cd..
+  103  cd Desktop
+  104  cd ..
+  105  cd ..
+  106  cd git
+  107  cd Desktop
+  108  cd Git
+  109  cd git
+  110  cd ..
+  111  $ git config --global user.name "tmorbiwala"
+  112   git config --global user.name "tmorbiwala"
+  113  git config --global user.name
+  114  cd git
+  115  cd ~/git
+  116  git clone git@github.com:Tamkmo/codingdemo.git
+  117  cd Desktop
+  118  mddir Git
+  119  mkdir git
+  120  cd git
+  121  git cone git@github.com:Tamkmo/codingdemo.git
+  122  git clone git@github.com:Tamkmo/codingdemo.git
+  123  open .
+  124  cd codingdemo/
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd codingdemo
+  129  ls
+  130  git add -A
+  131  git commit -m "Added an index.html file"
+  132  git push origin master
+  133  git push origin main
+  134  git checkout -b bootcamp
+  135  git add -A
+  136  git add commit -m "Add a header to the index.html"
+  137  git commit -m "Add a header to the index.html"
+  138  git push origin bootcamp
+  139  git checkout main
+  140  git pull
+  141  git config --global
+  142  cd..
+  143  cd ..
+  144  cd ..
+  145  cd ..
+  146  ls -al ~/.ssh
+  147  ssh-keygen -t rsa -b 4096 -C "tasnim.m786@gmail.com"
+  148  ssh-add ~/.ssh/id_rsa
+  149  clip < ~/.ssh/id_rsa.pub
+  150  conda activate dev
+  151  jupyter lab
+  152  conda deactivate
+  153  echo $SHELL
+  154  conda --version
+  155  python --version
+  156  python update python
+  157  conda activate dev
+  158  pip -V
+  159  pip freeze
+  160  pip install fire
+  161  pip install questionary
+  162  conda create -n atmdev python=3.7 anaconda
+  163  conda activate atmdev
+  164  pip install -r requirements.txt
+  165  cd ..
+  166  cd ..
+  167  ls
+  168  pwd
+  169  cd Fintech 2021
+  170  cd Desktop
+  171  cd ..
+  172  cd Users
+  173  cd tmorbiwala
+  174  cd Desktop
+  175  cd Fintech 2021
+  176  cd Fintech 2021
+  177  Fintech2021
+  178  cd GitHub_Upload
+  179  cd ..
+  180  cd Fintech 2021
+  181  cd Fintech2021
+  182  cd Module2
+  183  cd Module 2
+  184  cd Module2\Class_2_Activities
+  185  cd Class_2_Activities
+  186  cd Module2
+  187  ls
+  188  cd Class_2_Activities
+  189  ls
+  190  cd 02_Stu_Build_ATM_Functions
+  191  pip install -r requirements.txt
+  192  cd Unsolved
+  193  pip install -r requirements.txt
+  194  cd ..
+  195  cd ..
+  196  cd Module2
+  197  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/Other_exercises
+  198  pip install fire
+  199  python cli.py
+  200  python cli.py
+  201  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/Loan_Qualifier/Unsolved
+  202  python app.py
+  203  python -version
+  204  python -V
+  205  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/02_Loan_Qualifier_Filtering_Data
+  206  python app.py
+  207  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved
+  208  python app.py
+  209  python app.py
+  210  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier
+  211  python app.py
+  212  ls
+  213  python app.py
+  214  python app.py
+  215  conda deactivate atmdev
+  216  conda deactivate
+  217  conda activate
+  218  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier
+  219  python app.py
+  220  cd ..
+  221  cd ..
+  222  cd ..
+  223  cd ..
+  224  cd ..
+  225  jupyter lab
+  226  git config --global user.name tmorbiwala
+  227  git config --global user.email tasnim.m786@gmail.com
+  228  git config --list
+  229  pwd
+  230  cd ../Users/tmorbiwala/Desktop/Fintech2021/Module2/Challenge_2/loan_qualifier_app 
+  231  cd ..
+  232  cd ..
+  233  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/Challenge_2/loan_qualifier_app 
+  234  git status
+  235  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/git_repo_challenge2 
+  236  git clone git@github.com:Tamkmo/Loan_qualifier_app.git
+  237  git clone https://github.com/Tamkmo/Loan_qualifier_app.git
+  238  git status
+  239  ls
+  240  cd Loan_qualifier_app
+  241  git status
+  242  touch terminal_history.txt
+  243  ls
+  244  cd ..
+  245  cd ..
+  246  cd /Users/tmorbiwala/Desktop/Fintech2021/Module2/Challenge_2/loan_qualifier_app
+  247  cd ..
+  248  cd loan_qualifier_app
+  249  git commit -m '2nd version of app.py'
+  250  cd ..
+  251  git commit -m '2nd version of app.oy'
+  252  cd loan_qualifier_app
+  253  git push
+  254  git push https://github.com/Tamkmo/Loan_qualifier_app.git
+  255  pwd
+  256  conda activate
+  257  python app.py
+  258  pip install fire
+  259  pip install questionary
+  260  python app.py
+  261  python app.py
+  262  python app.py
+  263  python app.py
+  264  python app.py
+  265  python app.py
+  266  python app.py
+  267  python app.py
+  268  python app.py
+  269  python app.py
+  270  python app.py
+  271  python app.py
